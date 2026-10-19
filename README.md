@@ -6,7 +6,7 @@
 
 Tileleaf turns a chosen picture or PDF page into physically sized, numbered A4 or US Letter tiles, with an assembly guide, a printable scale check and matching replacement sheets.
 
-**Status — October 19, 2026:** In production. iPad native and UI workflow checks passed, including verified local purchase, saved-project relaunch, replacement export and 100-tile output. Current iPhone runtime free export, large-text landscape and native Share/Print checks passed. A signed Universal iOS15+ App Store archive and IPA export are prepared. Physical measured output and genuine Sandbox results remain open; not submitted or publicly available. TestFlight is skipped by publisher instruction.
+**Status — October 19, 2026:** Version1.0(build1) and Lifetime Pro submitted together at4:41PM PDT; both Waiting for Review. V1 is frozen. iPhone/iPad native workflows and local StoreKit checks passed; the publisher reports device purchase/restore and the requested physical print test working. Exact paper measurements and purchase environment were not supplied. Manual release after approval; not publicly available. TestFlight skipped by publisher instruction.
 
 ## One focused workflow
 
@@ -24,7 +24,7 @@ Native SwiftUI, UIKit, PDFKit, Core Graphics, ImageIO, CryptoKit and StoreKit 2.
 
 The independent engine computes physical millimeter coordinates, overlap and nondivisible edge regions before converting to PDF points. Replacement page content was independently verified byte-identical to the original tile. Native test evidence covers source orientation, PDF page rotation/crop, transparency, malformed/encrypted files, atomic project recovery and verified local purchase/refund behavior. Local Xcode StoreKit tests do not establish genuine Sandbox or production purchases.
 
-Sources are normalized on-device to at most 4,096 pixels. Limits include 40 MB imports, supported unencrypted PDFs up to 100 pages, at most 100 artwork tiles, and 30 local projects. PDF pages are flattened; this is a home-print workflow without printer drivers or professional color-management claims. Printing paths can scale output, so actual measured paper proof is a release gate.
+Sources are normalized on-device to at most 4,096 pixels. Limits include 40 MB imports, supported unencrypted PDFs up to 100 pages, at most 100 artwork tiles, and 30 local projects. PDF pages are flattened; this is a home-print workflow without printer drivers or professional color-management claims. Printing paths can scale output; check the printed guide square at actual size before assembly. The publisher confirmed the requested physical print test works; numerical measurements were not supplied.
 
 ## Privacy
 
