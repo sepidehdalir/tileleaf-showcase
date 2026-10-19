@@ -6,7 +6,7 @@
 
 Tileleaf turns a chosen picture or PDF page into physically sized, numbered A4 or US Letter tiles, with an assembly guide, a printable scale check and matching replacement sheets.
 
-**Status — October 19, 2026:** In production. Name accepted in App Store Connect. Native compact-phone workflow and 15 unit tests passed; physical measured output, iPad/device coverage, live StoreKit, final marketing and release checks remain open. Not submitted or publicly available. TestFlight is skipped by publisher instruction.
+**Status — October 19, 2026:** In production. iPad native and UI workflow checks passed, including verified local purchase, saved-project relaunch, replacement export and 100-tile output. Current iPhone runtime free export, large-text landscape and native Share/Print checks passed. A signed Universal iOS15+ App Store archive and IPA export are prepared. Physical measured output and genuine Sandbox results remain open; not submitted or publicly available. TestFlight is skipped by publisher instruction.
 
 ## One focused workflow
 
@@ -30,6 +30,14 @@ Sources are normalized on-device to at most 4,096 pixels. Limits include 40 MB i
 
 No account, backend, content upload, advertising or analytics SDK. Native pickers expose selected files; Files providers may download what the user selects. Saved projects remain in protected app storage and may be included in system device backups. Apple handles purchases; the user controls export and print destinations. [Privacy policy](https://sepidehdalir.github.io/tileleaf-showcase/privacy.html) · [Support](https://sepidehdalir.github.io/tileleaf-showcase/support.html).
 
-Commercial source and dated QA evidence are maintained in a separate private repository. This public showcase contains no commercial source, signing material, credentials or user content. Premium authentic iPhone and iPad campaigns will be added after final runtime capture and review.
+Commercial source and dated QA evidence are maintained in a separate private repository. This public showcase contains no commercial source, signing material, credentials or user content. The campaign uses reviewed native app captures, original botanical sample artwork and actual PDF exports. Paid features are labeled Lifetime Pro; no generated or reconstructed UI is used.
+
+## App Store campaign
+
+Separate iPhone and iPad compositions show the main value, sizing workflow, PDF guide, selected replacements and local projects.
+
+![Tileleaf iPhone campaign](docs/assets/iphone-campaign.jpg)
+
+![Tileleaf iPad campaign](docs/assets/ipad-campaign.jpg)
 
 Built by **Sepideh Javanbakht Dalir** · [arvinify.com](https://www.arvinify.com) · [hello@arvinify.com](mailto:hello@arvinify.com)
