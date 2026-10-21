@@ -6,7 +6,7 @@
 
 Tileleaf turns a chosen picture or PDF page into physically sized, numbered A4 or US Letter tiles, with an assembly guide, a printable scale check and matching replacement sheets.
 
-**Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. V1 remains frozen. First clarification drafted only, not sent. Earlier QA and owner-reported physical results remain historical; no new runtime or print pass is claimed. TestFlight remains skipped.
+**Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. V1 remains frozen. First clarification drafted only, not sent. Earlier QA and owner-reported physical results remain historical; no new runtime or print pass is claimed. TestFlight remains skipped. First app-specific clarification sent October20,2026; concrete Apple feedback pending. This is not a binary resubmission.
 
 ## One focused workflow
 
