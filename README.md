@@ -6,7 +6,7 @@
 
 Tileleaf turns a chosen picture or PDF page into physically sized, numbered A4 or US Letter tiles, with an assembly guide, a printable scale check and matching replacement sheets.
 
-**Current status — October 20, 2026:** App 1.0 (1) rejected under Guideline 4.3(a) on October 20, 2026; Lifetime Pro Ready for Review. Recovery in progress; no new binary resubmission, approval or release. V1 remains frozen. First clarification drafted only, not sent. Earlier QA and owner-reported physical results remain historical; no new runtime or print pass is claimed. TestFlight remains skipped. First app-specific clarification sent October20,2026; concrete Apple feedback pending. This is not a binary resubmission.
+**Current status — October 21, 2026:** App 1.0 (1) remains rejected under Guideline 4.3(a); Lifetime Pro Ready for Review. The first app-specific clarification is posted (Messages2), with concrete Apple feedback pending. No new binary resubmission, approval or release. TestFlight remains skipped.
 
 ## One focused workflow
 
@@ -41,3 +41,6 @@ Separate iPhone and iPad compositions show the main value, sizing workflow, PDF 
 ![Tileleaf iPad campaign](docs/assets/ipad-campaign.jpg)
 
 Built by **Sepideh Javanbakht Dalir** · [arvinify.com](https://www.arvinify.com) · [hello@arvinify.com](mailto:hello@arvinify.com)
+
+
+October 21 recovery: a cancelled replacement now retains the previous prepared PDF, with an Open prepared PDF action. This is unsubmitted functional work in the private repository. Native iOS 17 tests and the reopen UI pass; iOS 26.5 PDF/import/library checks and reopen UI pass. The broader iOS 26.5 local StoreKit attempt was interrupted after configuration errors, so no new billing pass is inferred. Unsigned Release compiles; signing/archive, Apple upload and submission remain unverified for this correction. Existing premium iPhone/iPad campaign pixels are unchanged.
